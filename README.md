@@ -1,2 +1,2 @@
-# RCE
-True Emulation Revival Project
+# wareOS
+Forged by all, tailored by us.
